@@ -1,0 +1,6 @@
+{
+  "name": "Meteora Final Token",
+  "symbol": "MFT",
+  "description": "Un token creado con una configuración limpia, donde la metadata JSON es la única fuente de verdad.",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MFT/logo.png"
+}
